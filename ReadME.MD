@@ -2,4 +2,4 @@
 
 ## Key Highlights
 - Emphasis Solid Principles through out the codebase
-- Updates Coming Soon
+- Added makefile support to automate test runs and cleanup files.
